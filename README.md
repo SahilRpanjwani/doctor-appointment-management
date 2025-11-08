@@ -40,11 +40,11 @@ Open the project in your browser at http://localhost/doctor-appointment-manageme
 
 We worked together equally on this project.
 
-Sahil R. Panjwani	  @SahilRpanjwani        Backend & Database  |
-
-Nayan Dobariya	    @nayandobariya         Frontend & UI Design |
-
-Khalani Mahir	      @khalanimahirProject   Structure & Documentation
+| Name                  | GitHub                                               | Role                              |
+| --------------------- | ---------------------------------------------------- | --------------------------------- |
+| **Sahil R. Panjwani** | [@SahilRpanjwani](https://github.com/SahilRpanjwani) | Backend & Database                |
+| **Nayan Dobariya**    | [@nayandobariya](https://github.com/nayandobariya)   | Frontend & UI Design              |
+| **Khalani Mahir**     | [@khalanimahir](https://github.com/khalanimahir)     | Project Structure & Documentation |
 
 (All members contributed equally to the development and testing of this project.)
 
